@@ -1,6 +1,6 @@
 # Supporting Code for the PA3900 Project (University of Leicester) by Hasan Shaikh
 
-The following 2 iPython Notebook files (.ipynb) are supporting code created solely for the report: "Apparent changes in the drift speed and aspect ratio of the Jovian GRS 
+The following 2 iPython Notebook files (.ipynb) are supporting code created by Hasan Shaikh and Owen Morris solely for the report: "Apparent changes in the drift speed and aspect ratio of the Jovian GRS 
 using SpeX data between 2018 – 2020"  in University of Leicester's PA3900 Project: Jupiter's Atmosphere, supervised by Dr Leigh Fletcher. 
 
 The code labelled: 'GRS_18.2.15_2.16 (1).ipynb' is the supporting code for the extraction of data from the cylindrical maps produced in IDL DRM using images taken from 
